@@ -1,7 +1,7 @@
 # Wink Bank Clone
 
 <div align="center">
-  <img src="https://github.com/Smey09/Wing_Bank_clone_flutter/assets/149933218/571904b7-c6bb-4a65-abfd-2c4538c2fc7e" alt="Thumbnail-yb" width="300"/>
+  <img src="https://github.com/Smey09/Wing_Bank_clone_flutter/assets/149933218/571904b7-c6bb-4a65-abfd-2c4538c2fc7e" alt="Thumbnail-yb" width="500"/>
 </div>
 
 ## Overview
