@@ -13,13 +13,6 @@ This repository contains a clone of the Wink Bank application. The current imple
 - **PIN Code**: `1234`
 - **Sign In Number**: `012345678`
 
-## Features
-
-- **User Authentication**: Secure sign-in and sign-out.
-- **Dashboard**: Overview of account balances and transactions.
-- **Transactions**: View and manage your transaction history.
-- **Payments**: Make payments to saved contacts.
-
 ## Installation
 
 1. Clone the repository:
@@ -43,5 +36,5 @@ This repository contains a clone of the Wink Bank application. The current imple
       ```
       flutter pug upgrade
       ```
-5. #Note
+## Note
    - if your can't fix, please connact me with telegram : t.me/Smey_Advance = > [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Smey_Advance)
